@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: api_key_authenticator.go
+  checksum: bf8a77d8ea503469efbee1875c76edc81371a1e3e7cd9af7cbc36f318de6c5fa
+- filename: oauth2.go
+  checksum: 46fe7353b95d7b43b58a2160bf8deb20ea385691194c039642d45f4b82f69fda
+

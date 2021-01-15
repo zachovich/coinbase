@@ -1,0 +1,1 @@
+Coinbase go module that is inspired from https://github.com/fabioberger/coinbase-go
